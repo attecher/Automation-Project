@@ -1,5 +1,4 @@
-````markdown
-# 🤖 CRM Automation Framework
+## 🤖 CRM Automation Framework
 
 This project is a test automation framework built with Java, Selenium WebDriver, and Maven to automate functional testing of a CRM application.
 In My framework i have like 7 components
@@ -24,10 +23,8 @@ In My framework i have like 7 components
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crm-automation.git
-   cd crm-automation
-````
-
+   git clone https://github.com/attecher/Automation-Project.git
+   
 2. **Run tests via Maven**
 
    ```bash
@@ -52,14 +49,12 @@ pom.xml              # Maven dependencies and plugins
 
 * Automated login and basic CRM workflows
 * Page Object Model (POM) for easy maintenance
-* Configurable via `config.properties`
-* Cross-browser support (optional)
+* Configurable via `pom.xml`
+* Cross-browser support
 
 ## 🛡️ Disclaimer
 
 This project is for educational and demo purposes. Use only on systems you have permission to test.
-
-```
 
 ---
 
