@@ -3,14 +3,13 @@
 
 This project is a test automation framework built with Java, Selenium WebDriver, and Maven to automate functional testing of a CRM application.
 In My framework i have like 7 components
-Generic Utility
-1. Test Data
-2. Object Repository
-3. Test Script
-4. Suitefile/BaseClass
-5. Advance Report
-6. Pom Xml
-7. Resources
+1. Generic Utility
+2. Test Data
+3. Object Repository
+4. Test Script
+5. Suitefile/BaseClass
+6. Advance Report
+7. Pom Xml
 
 ## ⚙️ Tech Stack
 
