@@ -59,4 +59,3 @@ This project is for educational and demo purposes. Use only on systems you have 
 ---
 
 Let me know if your framework uses specific tools (like Allure reports, Jenkins, or Docker), and I can tailor the README further.
-```
